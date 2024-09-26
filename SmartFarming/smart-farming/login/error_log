@@ -1,0 +1,233 @@
+[27-Jul-2024 10:56:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:56:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:58:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 10:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:07:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:07:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:07:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:09:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:09:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:09:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:24:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 11:24:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mycolleg_iot'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php:2
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php(2): mysqli_connect('localhost', 'mycolleg_iot', Object(SensitiveParameterValue), 'mycolleg_iot')
+#1 /home4/thepclhb/project.thepcware.in/login/index.php(2): include('/home4/thepclhb...')
+#2 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/includes/dbconnection.php on line 2
+[27-Jul-2024 12:02:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'id21330445_smartcart'@'localhost' (using password: YES) in /home4/thepclhb/project.thepcware.in/login/projects3.php:160
+Stack trace:
+#0 /home4/thepclhb/project.thepcware.in/login/projects3.php(160): mysqli_connect('localhost', 'id21330445_smar...', Object(SensitiveParameterValue), 'id21330445_iotp...')
+#1 {main}
+  thrown in /home4/thepclhb/project.thepcware.in/login/projects3.php on line 160
