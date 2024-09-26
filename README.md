@@ -4,6 +4,7 @@ This project aims to leverage IoT technologies to optimize farming practices. Th
 
 The Smart Farming System is an innovative and automated solution designed to enhance agricultural practices by integrating modern technologies. This system utilizes NodeMCU, DHT11 temperature and humidity sensor, soil moisture sensor, and an IoT-controlled motor to create a comprehensive smart farming environment.
   - You can see the structure of this repository at : [Repository Structure](https://github.com/AsHeish/smart-farming-system-iot/blob/main/repo-Structure.md)
+  ![image](https://github.com/AsHeish/smart-farming-system-iot/blob/main/SmartFarming/smart-farming/login/images/Iot-project.png)
 
 ## Key Components
 - **NodeMCU**:
