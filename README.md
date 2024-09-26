@@ -3,7 +3,7 @@
 This project aims to leverage IoT technologies to optimize farming practices. The smart farming system monitors various environmental factors and automates processes to improve crop yield and reduce resource usage.
 
 The Smart Farming System is an innovative and automated solution designed to enhance agricultural practices by integrating modern technologies. This system utilizes NodeMCU, DHT11 temperature and humidity sensor, soil moisture sensor, and an IoT-controlled motor to create a comprehensive smart farming environment.
-  - You can see the structure of this repository at : [Repository Structure](https://github.com/Hitesh2112/smart-farming-iot-project/blob/main/repo-Structure.md)
+  - You can see the structure of this repository at : [Repository Structure](https://github.com/AsHeish/smart-farming-system-iot/blob/main/repo-Structure.md)
 
 ## Key Components
 - **NodeMCU**:
@@ -80,7 +80,7 @@ The Smart Farming System is an innovative and automated solution designed to enh
     -  Upload the code to NodeMCU using the Arduino IDE.
 
 ### Deployed platform (Website)
-The backend of the deployed page is implemented using PHP, ensuring robust data management and communication between the hardware components and the IoT platform, and is deployed at https://mycollegeproject.xyz/SmartIrrigation/login.
+The backend of the deployed page is implemented using PHP, ensuring robust data management and communication between the hardware components and the IoT platform, and is deployed at https://project.thepcware.in/login/dashboard.php.
  #### Tech Stack Used
  ```
 .
@@ -104,10 +104,6 @@ The backend of the deployed page is implemented using PHP, ensuring robust data 
 - Access the IoT platform dashboard to monitor real-time data and control the motor.
 - The system will automatically manage irrigation based on soil moisture levels.
 
-
-## Acknowledgements
-Special thanks to my team mate Abdullah Jamil and our college seniors for their guidance and support throughout the development of this project.
-And the open-source community for providing the necessary tools and libraries.
 
 ## Outro
 By integrating modern IoT technologies with traditional farming practices, the Smart Farming System aims to revolutionize agriculture, making it more efficient, sustainable, and accessible.
